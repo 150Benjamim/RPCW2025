@@ -10,3 +10,6 @@
 **Nome:** Benjamim Meleiro Rodrigues
 
 **Número:** PG57511
+
+**Foto:**
+![image](https://github.com/user-attachments/assets/29b2db45-f496-4bac-8c2b-e5e317558992)
