@@ -1,0 +1,1259 @@
+{
+  "metadata": {
+    "total_films": 151,
+    "generated_on": "2025-05-26T18:05:36.447560",
+    "source": "DBpedia SPARQL endpoint",
+    "description": "Cinema dataset with films from 1990 onwards"
+  },
+  "films": [
+    {
+      "title": "100 Years (film)",
+      "director": "Robert Rodriguez",
+      "release_year": 2115,
+      "release_date": "2115-11-18",
+      "description": "100 Years is an upcoming experimental science fiction film written by John Malkovich and directed by Robert Rodriguez. Advertised in 2015 with the tagline \"The Movie You Will Never See\", it is due to be released on November 18, 2115. The film stars an international ensemble, with American actor John Malkovich, Taiwanese actress Shuya Chang, and Chilean actor Marko Zaror. 100 Years is apparently a short film. Rodriguez stated in a 2019 interview: I was making several short films for them, and I f...",
+      "dbpedia_uri": "http://dbpedia.org/resource/100_Years_(film)"
+    },
+    {
+      "title": "Force (film series)",
+      "director": "Nishikanth Kamath",
+      "release_year": 2024,
+      "release_date": "2024-08-15",
+      "description": "Force is a series of Indian action-thriller films, produced by Vipul Amrutlal Shah. The first part directed by Nishikant Kamath released in 2011 and the second part directed by Abhinay Deo released in 2016. A third part of the series is in pre-production.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Force_(film_series)"
+    },
+    {
+      "title": "The Nun 2",
+      "director": "Michael Chaves",
+      "release_year": 2023,
+      "release_date": "2023-09-08",
+      "description": "The Nun 2 is an upcoming American supernatural horror film directed by Michael Chaves written by Akela Cooper, Ian Goldberg and Richard Naing, from a story by Cooper and James Wan. It serves as the sequel to The Nun (2018) and the ninth installment in The Conjuring Universe franchise. The film stars Storm Reid, Taissa Farmiga, and Anna Popplewell. Wan and Peter Safran return as co-producers, with Judson Scott also serving as a producer. The film is scheduled to be released by Warner Bros. Pictur...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Nun_2"
+    },
+    {
+      "title": "Gadar 2",
+      "director": "Anil Sharma (director)",
+      "release_year": 2023,
+      "release_date": "2023-08-15",
+      "description": "Gadar 2 is an upcoming Indian Hindi-language film directed by Anil Sharma. It is a direct sequel to the 2001 film, Gadar. The original cast, consisting of Sunny Deol, Ameesha Patel and Utkarsh Sharma, will be returning.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Gadar_2"
+    },
+    {
+      "title": "Jodi (2022 film)",
+      "director": "Amberdeep Singh",
+      "release_year": 2023,
+      "release_date": "2023-05-05",
+      "description": "Jodi is an upcoming Indian Punjabi-language romantic-comedy period film written and directed by Amberdeep Singh. It is co-produced by Amrinder Gill and Karaj Gill under Rhythm Boyz Entertainment with Dalmora Films and, Diljit Dosanjh under Dosanjhwala Productions. The film stars Dosanjh and Nimrat Khaira. Dosanjh started working on music of the film in August 2019, and its filming began on 5 October 2019. The film was scheduled to be released on 26 June 2020 but it was postponed due to COVID-19 ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Jodi_(2022_film)"
+    },
+    {
+      "title": "Money Back Guarantee (2023 film)",
+      "director": "Faisal Qureshi (television personality)",
+      "release_year": 2023,
+      "release_date": "2023-04-21",
+      "description": "Money Back Guarantee is a Pakistani film directed & written by Faisal Qureshi (in his feature directorial debut), it stars Fawad Khan, Hina Dilpazir, Ali Safina, Wasim Akram, Shayan Khan, Mikaal Zulfiqar, Gohar Rasheed, and Jan Rambo. The film was scheduled for release on 22 May 2020. However, due to the COVID-19 pandemic, the movie release was postponed. On 6 September 2022, it was officially announced that film will be released worldwide on 21 April 2023.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Money_Back_Guarantee_(2023_film)"
+    },
+    {
+      "title": "Vaathi",
+      "director": "Venky Atluri",
+      "release_year": 2023,
+      "release_date": "2023-02-17",
+      "description": "Vaathi (transl. Teacher) is an upcoming Indian period coming-of-age action drama film written and directed by Venky Atluri. It is shot simultaneously in Tamil and Telugu languages, the latter titled as Sir. Produced by Sithara Entertainments and Fortune Four Cinemas, the film stars Dhanush and Samyuktha Menon. The film is scheduled for a theatrical release on 17 February 2023.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Vaathi"
+    },
+    {
+      "title": "Teen Wolf: The Movie",
+      "director": "Russell Mulcahy",
+      "release_year": 2023,
+      "release_date": "2023-01-26",
+      "description": "Teen Wolf: The Movie is an upcoming American supernatural thriller teen drama film directed by Russell Mulcahy and written by Jeff Davis. The film is a continuation of the MTV series Teen Wolf and features most of the cast reprising their roles, including Tyler Posey, Crystal Reed, Tyler Hoechlin, Holland Roden, Colton Haynes, Shelley Hennig, Dylan Sprayberry, Linden Ashby, Melissa Ponzio, and JR Bourne. It follows werewolf Scott McCall (Posey) as he protects his California town from a new threa...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Teen_Wolf:_The_Movie"
+    },
+    {
+      "title": "Dhamaka (2022 film)",
+      "director": "Trinadha Rao Nakkina",
+      "release_year": 2022,
+      "release_date": "2022-12-23",
+      "description": "Dhamaka is an upcoming Indian Telugu-language action comedy film written and directed by Trinadha Rao Nakkina and produced by Abhishek Agarwal and T G Vishwa Prasad, under the People Media Factory and Abhishek Agarwal Arts banners. Cinematography has been done by Karthik Ghattamaneni. The film stars Ravi Teja, Sree Leela and Jayaram in the lead roles. The filming took place in parts of Hyderabad and Spain. The film is scheduled to release on 23 December 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Dhamaka_(2022_film)"
+    },
+    {
+      "title": "Savage Salvation",
+      "director": "Randall Emmett",
+      "release_year": 2022,
+      "release_date": "2022-12-02",
+      "description": "Savage Salvation (also titled Wash Me in the River) is a 2022 American thriller film directed by Randall Emmett and starring Robert De Niro, Jack Huston, John Malkovich, Quavo, and Willa Fitzgerald.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Savage_Salvation"
+    },
+    {
+      "title": "Zarrar",
+      "director": "Shaan Shahid",
+      "release_year": 2022,
+      "release_date": "2022-11-25",
+      "description": "Zarrar is a 2022 Pakistani spy action thriller film written and directed by Shaan Shahid and produced by Ejaz Shahid and Adnan Butt under the banner of Jehan Films. It stars Shaan Shahid as the titular character along with Kiran Malik, Nadeem Baig, Nayyer Ejaz and Shafqat Cheema in supporting roles. The film was officially released worldwide on November 25, 2022. The idea for 'Zarrar' initially began in 2016, and is considered to be Pakistan's second spy thriller action film after the release of...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Zarrar"
+    },
+    {
+      "title": "Kalaga Thalaivan",
+      "director": "Magizh Thirumeni",
+      "release_year": 2022,
+      "release_date": "2022-11-18",
+      "description": "Kalaga Thalaivan (transl. Leader of Rebellion) is an Indian Tamil-language action-thriller film written and directed by Magizh Thirumeni and produced by Udhayanidhi Stalin under the banner of Red Giant Movies. The film stars Udhayanidhi Stalin himself, Nidhhi Agerwal and Kalaiyarasan in lead roles. The film's music and scored by Srikanth Deva and Arrol Corelli, with cinematography handled by K. Dhillraj and editing done by N. B. Srikanth. This is a fourth collaboration of N. B. Srikanth and Magi...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Kalaga_Thalaivan"
+    },
+    {
+      "title": "Love Today (2022 film)",
+      "director": "Pradeep Ranganathan",
+      "release_year": 2022,
+      "release_date": "2022-11-04",
+      "description": "Love Today is a 2022 Indian Tamil-language romantic comedy-drama film written and directed by Pradeep Ranganathan in his second dirctorial venture after Comali, and produced by Kalapathi S. Aghoram under the banner of AGS Entertainment. The film stars Pradeep Ranganathan himself (in his acting debut), Ivana, Raveena Ravi, Yogi Babu, Sathyaraj and Raadhika Sarathkumar in lead roles. The film's music and score is composed by Yuvan Shankar Raja, with cinematography handled by Dinesh Purushothaman a...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Love_Today_(2022_film)"
+    },
+    {
+      "title": "Kumari (2022 film)",
+      "director": "Nirmal Sahadev",
+      "release_year": 2022,
+      "release_date": "2022-10-28",
+      "description": "Kumari is a 2022 Indian Malayalam-language mythological fantasy film written and directed by Nirmal Sahadev, featuring Aishwarya Lekshmi in titular role. It also features Shine Tom Chacko and Surabhi Lakshmi in supporting roles. The film is produced by Giju John, Nirmal Sahadev, Sreejith Sarang and Jakes Bejoy under the banner The Fresh Lime Sodas. Abraham Joseph is the cinematographer of the film, while Jakes Bejoy has composed the songs. Kumari is co-produced by Aishwarya Lekshmi, Priyanka Jos...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Kumari_(2022_film)"
+    },
+    {
+      "title": "Blade of the 47 Ronin",
+      "director": "Ron Yuan",
+      "release_year": 2022,
+      "release_date": "2022-10-25",
+      "description": "Blade of the 47 Ronin is a 2022 American action-fantasy film directed by Ron Yuan, from a script co-written by John Swetnam, Aimee Garcia, and AJ Mendez, and is a sequel to the 47 Ronin. Set 300 years after its predecessor, the movie details the fight for survival of the final descendants of the 47 Ronin. Blade of the 47 Ronin was released as a Netflix Original Film on October 25, 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Blade_of_the_47_Ronin"
+    },
+    {
+      "title": "Maja Ma",
+      "director": "Anand Tiwari",
+      "release_year": 2022,
+      "release_date": "2022-10-06",
+      "description": "Maja Ma is a 2022 Indian Hindi-language drama film directed by Anand Tiwari. It stars Madhuri Dixit, Gajraj Rao, Ritwik Bhowmik, Barkha Singh, Srishti Shrivastava and Simone Singh. The film premiered on 6 October 2022 on Amazon Prime Video.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Maja_Ma"
+    },
+    {
+      "title": "Eesho",
+      "director": "Nadirshah",
+      "release_year": 2022,
+      "release_date": "2022-10-05",
+      "description": "Eesho is an Indian Malayalam-language thriller film directed by Nadirshah featuring Jayasurya and Namitha Pramod in the lead roles. The film written by Suneesh Varanad is produced by Arun Narayan. Roby Varghese is the cinematographer while Nadirshah composes the songs and the original background score is composed and produced by Rahul Raj.The film released on 5 October 2022 through SonyLIV OTT platform.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Eesho"
+    },
+    {
+      "title": "Totapuri: Chapter 1",
+      "director": "Vijaya Prasad",
+      "release_year": 2022,
+      "release_date": "2022-09-30",
+      "description": "Totapuri: Chapter 1 is a 2022 Indian Kannada language romantic comedy film directed by Vijaya Prasad and produced by K A Suresh. The Film stars Jaggesh, Dhananjay, Suman Ranganathan and Aditi Prabhudeva are in lead roles.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Totapuri:_Chapter_1"
+    },
+    {
+      "title": "Kotthu",
+      "director": "Sibi Malayil",
+      "release_year": 2022,
+      "release_date": "2022-09-16",
+      "description": "Kotthu (transl. Stab) is a 2022 Indian Malayalam-language political thriller film directed by Sibi Malayil and written by Hemanth Kumar. It was produced by Ranjith and P. M. Sasidharan. The film stars Asif Ali, Nikhila Vimal, Roshan Mathew, Ranjith and Sreelakshmi in important roles. Jakes Bejoy composed the original score, while Kailas Menon composed the original songs. It also marks the comeback of Sibi Malayil after 7 years. The film received mixed reviews and became a box office average hit.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Kotthu"
+    },
+    {
+      "title": "Brahmāstra: Part One – Shiva",
+      "director": "Ayan Mukerji",
+      "release_year": 2022,
+      "release_date": "2022-09-09",
+      "budget": "375.0",
+      "gross_revenue": "431.0",
+      "description": "Brahmāstra: Part One – Shiva (pronounced [bɾəɦmaːstrə]) is a 2022 Indian Hindi-language fantasy action-adventure film written and directed by Ayan Mukerji. It is produced by Karan Johar, Apoorva Mehta, Namit Malhotra, and Mukerji (in his debut production) – under the production companies Dharma Productions, Starlight Pictures, and Prime Focus in association with Star Studios, along with Ranbir Kapoor and Marijke DeSouza. The film serves as the first installment of a planned trilogy, which is its...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Brahmāstra:_Part_One_–_Shiva"
+    },
+    {
+      "title": "Backlash: Misogyny in the Digital Age",
+      "director": "Guylaine Maroist",
+      "release_year": 2022,
+      "release_date": "2022-09-09",
+      "description": "Backlash : Misogyny in the Digital Age is a Canadian documentary feature film by Léa Clermont-Dion and Guylaine Maroist released in 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Backlash:_Misogyny_in_the_Digital_Age"
+    },
+    {
+      "title": "Sreedhanya Catering Service",
+      "director": "Jeo Baby",
+      "release_year": 2022,
+      "release_date": "2022-08-26",
+      "description": "Sree Dhanya Catering Service is a 2022 Malayalam comedy drama film written and directed by Jeo Baby.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Sreedhanya_Catering_Service"
+    },
+    {
+      "title": "Kolkata Chalantika",
+      "director": "Pavel (film director)",
+      "release_year": 2022,
+      "release_date": "2022-08-25",
+      "description": "Kolkata Chalantika (transl. Kolkata's Kinetic Tale; Bengali pronunciation: [kolkata tʃolontika]) is a 2022 Indian Bengali-language emotional drama film directed and written by Pavel. The film stars an ensemble cast and is based on the 2016 Kolkata flyover collapse.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Kolkata_Chalantika"
+    },
+    {
+      "title": "The Profane Exhibit",
+      "director": "Anthony DiBlasi",
+      "release_year": 2022,
+      "release_date": "2022-08-21",
+      "description": "The Profane Exhibit is a 2013 International anthology horror film written and directed by various filmmakers specialized in the genre.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Profane_Exhibit"
+    },
+    {
+      "title": "Thallumaala",
+      "director": "Khalid Rahman",
+      "release_year": 2022,
+      "release_date": "2022-08-12",
+      "imdb_id": "11075264",
+      "description": "Thallumaala (transl. Ballad of Brawls) is a 2022 Indian Malayalam-language action film directed by Khalid Rahman and produced by Ashiq Usman. The film stars Tovino Thomas, Kalyani Priyadarshan and Shine Tom Chacko. Principal photography commenced in October 2021. It was released on 12 August 2022 and received positive reviews from critics and audience, becoming a critical and commercial success.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Thallumaala"
+    },
+    {
+      "title": "Serviam: I Will Serve",
+      "director": "Ruth Mader",
+      "release_year": 2022,
+      "release_date": "2022-08-09",
+      "description": "Serviam: I Will Serve (German: Serviam – Ich will dienen) is a 2022 Austrian thriller film directed by Ruth Mader, starring Maria-Victoria Dragus, Leona Lindinger, Anna Elisabeth Berger, Sophia Gomez-Schreiber and .",
+      "dbpedia_uri": "http://dbpedia.org/resource/Serviam:_I_Will_Serve"
+    },
+    {
+      "title": "Stone Turtle",
+      "director": "Woo Ming Jin",
+      "release_year": 2022,
+      "release_date": "2022-08-04",
+      "description": "Stone Turtle is a 2022 Malaysian-Indonesian thriller film directed by Woo Ming Jin, starring and Bront Palarae.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Stone_Turtle"
+    },
+    {
+      "title": "Allegoria",
+      "director": "Spider One",
+      "release_year": 2022,
+      "release_date": "2022-08-02",
+      "description": "Allegoria is a 2022 American horror anthology film directed by Spider One, starring John Ennis, Bryce Johnson, Edward Hong, Adam Busch and Adam Marcinowski. It is the directorial debut of Spider One.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Allegoria"
+    },
+    {
+      "title": "Give Them Wings",
+      "director": "Sean Cronin (actor)",
+      "release_year": 2022,
+      "release_date": "2022-08-01",
+      "description": "Give Them Wings is a 2022 British drama film directed by Sean Cronin and starring Daniel Watson, Toyah Wilcox, Bill Fellows, Jacob Anderton, Katie Sheridan, Rachel Warren, Jonathan Hansler, Debra Stephenson, Tracey Wilkinson and Bruce Payne.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Give_Them_Wings"
+    },
+    {
+      "title": "Timepass 3",
+      "director": "Ravi Jadhav",
+      "release_year": 2022,
+      "release_date": "2022-07-29",
+      "description": "Timepass 3 is a 2022 Marathi language romantic comedy drama film directed by Ravi Jadhav and produced by Meghana Jadhav. It is the third installment of the . The film stars Prathamesh Parab, Hruta Durgule and Bhalchandra Kadam in lead roles along with Sanjay Narvekar and Vaibhav Mangle in supporting cast. The story revolves around Dagdu Shantaram Parab.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Timepass_3"
+    },
+    {
+      "title": "The Wheel (2021 film)",
+      "director": "Steve Pink",
+      "release_year": 2022,
+      "release_date": "2022-07-22",
+      "description": "The Wheel is a 2021 American romantic drama film directed by Steve Pink, starring Amber Midthunder, Taylor Gray, Bethany Anne Lind, and Nelson Lee.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Wheel_(2021_film)"
+    },
+    {
+      "title": "He's Watching",
+      "director": "Jacob Aaron Estes",
+      "release_year": 2022,
+      "release_date": "2022-07-21",
+      "description": "He's Watching, is a 2022 American found footage horror film directed by Jacob Aaron Estes, starring Iris Serena Estes and Lucas Steel Estes. The film was released on July 21, 2022, and received positive reviews from critics.",
+      "dbpedia_uri": "http://dbpedia.org/resource/He's_Watching"
+    },
+    {
+      "title": "Polaris (2022 film)",
+      "director": "Kirsten Carthew",
+      "release_year": 2022,
+      "release_date": "2022-07-14",
+      "description": "Polaris is a 2022 Canadian action film directed by Kirsten Carthew. The film stars Viva Lee as Sumi, a young girl who is trying to reunite with her mother after being kidnapped by marauders, and is lost in a frozen wasteland where her only guide is a polar bear. The film is thematically related to, but not a direct expansion of, Carthew's 2015 short film Fish Out of Water.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Polaris_(2022_film)"
+    },
+    {
+      "title": "The Night of the 12th",
+      "director": "Dominik Moll",
+      "release_year": 2022,
+      "release_date": "2022-07-13",
+      "description": "The Night of the 12th (French: La Nuit du 12) is a 2022 French-Belgian thriller film directed by Dominik Moll, starring Bastien Bouillon, Bouli Lanners, Anouk Grinberg, , Mouna Soualem and .",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Night_of_the_12th"
+    },
+    {
+      "title": "Din–The Day",
+      "director": "Morteza Atashzamzam",
+      "release_year": 2022,
+      "release_date": "2022-07-10",
+      "imdb_id": "14668224",
+      "description": "Din–The Day is a 2022 Bangladeshi–Iranian joint produced action film directed by Morteza Atashzamzam and produced by Ananta Jalil under his production banner Monsoon Films. The film features Ananta Jalil and Afiea Nusrat Barsha in lead roles.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Din–The_Day"
+    },
+    {
+      "title": "Bairagee",
+      "director": "Vijay Milton",
+      "release_year": 2022,
+      "release_date": "2022-07-01",
+      "description": "Bairagee is a 2022 Indian Kannada-language action thriller film directed by Vijay Milton (in his Kannada debut) and produced by Krishna Sarthak. The film stars Shiva Rajkumar, Anjali, Dhananjay and Pruthvi Ambaar. The music was composed by Anoop Seelin. It is a remake of the director's own Tamil film Kadugu.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Bairagee"
+    },
+    {
+      "title": "Last Seen Alive",
+      "director": "Brian Goodman",
+      "release_year": 2022,
+      "release_date": "2022-06-03",
+      "gross_revenue": "5900000.0",
+      "description": "Last Seen Alive is a 2022 American action thriller film directed by Brian Goodman and written by Marc Frydman. It stars Gerard Butler, who also produced the film, Jaimie Alexander and Russell Hornsby. Formerly known as Chase, the film follows a man who takes the law into his own hands after he begins searching for his missing wife. It was released in the US on June 3, 2022 and was panned by critics.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Last_Seen_Alive"
+    },
+    {
+      "title": "Fun and Frustration",
+      "director": "Anil Ravipudi",
+      "release_year": 2022,
+      "release_date": "2022-05-27",
+      "gross_revenue": "274.0",
+      "description": "Fun and Frustration is a series of Indian Telugu-language comedy films. The film series is created and directed by Anil Ravipudi and distributed by Sri Venkateswara Creations. Each film starts with a fresh story unrelated with the preceding film's story. However, the theme and the pace remains the same. It is currently the twenty-second highest-grossing Indian film series worldwide.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Fun_and_Frustration"
+    },
+    {
+      "title": "Goenda Shabor",
+      "director": "Arindam Sil",
+      "release_year": 2022,
+      "release_date": "2022-05-27",
+      "description": "Goenda Shabor (transl. Detective Shabor) is a Bengali fictional detective series of police officer Shabor Dasgupta, created by novelist Shirshendu Mukhopadhyay. This is a series of Indian crime thriller films directed by Arindam Sil starring Saswata Chatterjee in the title character. The first film Ebar Shabor was released in 2015, and the second film Eagoler Chokh released in 2016. A third film titled Aschhe Abar Shabor was released in 2018.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Goenda_Shabor"
+    },
+    {
+      "title": "Mother and Son (2022 film)",
+      "director": "Léonor Serraille",
+      "release_year": 2022,
+      "release_date": "2022-05-27",
+      "description": "Mother and Son (French: Un petit frère) is a 2022 French drama film directed by Léonor Serraille, starring , Stéphane Bak, , Ahmed Sylla, Sidy Fofana and Milan Doucansi.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Mother_and_Son_(2022_film)"
+    },
+    {
+      "title": "Sarsenapati Hambirrao",
+      "director": "Pravin Tarde",
+      "release_year": 2022,
+      "release_date": "2022-05-27",
+      "description": "Sarsenapati Hambirrao (Marathi: सरसेनापती हंबीरराव) is an Indian Marathi-language historical war film written and directed by Pravin Tarde and produced by Sandeep Mohite Patil, Saujanya Nikam and Darmendra Bora under banner of Urvita Productions. The film stars Pravin Tarde, Gashmeer Mahajani, Mohan Joshi in lead roles. The film is based on life of Military Commander of Maratha Empire Hambirrao Mohite. The film released worldwide on 27 May 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Sarsenapati_Hambirrao"
+    },
+    {
+      "title": "Look at Me (2022 film)",
+      "director": "Sabaah Folayan",
+      "release_year": 2022,
+      "release_date": "2022-05-26",
+      "imdb_id": "10723416",
+      "description": "Look At Me is a 2022 documentary film, directed by Sabaah Folayan. It focuses on the life and death of the rapper and singer XXXTentacion. The film's title is named after his breakthrough single. It premiered at the South by Southwest Film Festival on March 15, 2022 and was released on Hulu on May 26, 2022. The film was first announced on June 18, 2019, the one-year anniversary of the murder of XXXTentacion. The film began production around April 2017.The documentary contains footage from X's la...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Look_at_Me_(2022_film)"
+    },
+    {
+      "title": "Mediterranean Fever (film)",
+      "director": "Maha Haj",
+      "release_year": 2022,
+      "release_date": "2022-05-25",
+      "description": "Mediterranean Fever is a 2022 German-French-Cypriot-Palestinian-Qatari black comedy-drama film directed by Maha Haj, starring , Ashraf Farah, , Samir Elias and Cynthia Saleem.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Mediterranean_Fever_(film)"
+    },
+    {
+      "title": "Belashuru",
+      "director": "Nandita Roy",
+      "release_year": 2022,
+      "release_date": "2022-05-20",
+      "imdb_id": "11318364",
+      "description": "Belashuru (transl. Start of the day) is a 2022 Bengali-language family drama film directed and produced by Nandita Roy and Shiboprosad Mukherjee. According to the directors, this is not a prequel or sequel to their previous film Bela Seshe. Original photography of the film began on 30 November 2018 in Bolpur. The film was released on 20 May 2022 after the deaths of its lead actors, Soumitra Chatterjee (died on 15 November 2020) & Swatilekha Sengupta (died on 16 June 2021) due to COVID-19 pandemi...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Belashuru"
+    },
+    {
+      "title": "Jack N' Jill",
+      "director": "Santosh Sivan",
+      "release_year": 2022,
+      "release_date": "2022-05-20",
+      "description": "Jack N' Jill (pronounced as Jack and Jill) is a 2022 Indian Malayalam-language science fiction comedy film directed by Santosh Sivan. It stars Manju Warrier, Kalidas Jayaram, Soubin Shahir, Shaylee Krishen and Esther Anil in the lead role. The film marks cinematographer, Santosh Sivan's directorial comeback in Malayalam cinema after nearly 7 years. The film is released in theatres on 20 May 2022. The film is partially reshot in Tamil under title Centimeter with Yogi Babu replacing Soubin Shahir ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Jack_N'_Jill"
+    },
+    {
+      "title": "How to Please a Woman",
+      "director": "Renée Webster",
+      "release_year": 2022,
+      "release_date": "2022-05-19",
+      "description": "How to Please a Woman is a 2022 Australian comedy-drama film directed by Renée Webster, starring Sally Phillips, Caroline Brazier, Erik Thomson, Tasma Walton and Alexander England.",
+      "dbpedia_uri": "http://dbpedia.org/resource/How_to_Please_a_Woman"
+    },
+    {
+      "title": "Dulhaniya London Se Layenge",
+      "director": "Rajnish Mishra",
+      "release_year": 2022,
+      "release_date": "2022-05-13",
+      "description": "Dulhaniya London Se Layenge is a 2022 Bhojpuri language comedy drama film, written and directed by Rajnish Mishra. The films stars Khesari Lal Yadav, Madhu Sharma and British artist Grace Rhodes.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Dulhaniya_London_Se_Layenge"
+    },
+    {
+      "title": "Meri Awas Suno",
+      "director": "Prajesh Sen",
+      "release_year": 2022,
+      "release_date": "2022-05-13",
+      "description": "Meri Awas Suno (transl. Listen to my Voice) is a 2022 Indian Malayalam-language musical drama film written and directed by Prajesh Sen and produced by B. Rakesh. The film stars Jayasurya, Manju Warrier and Sshivada. Johny Antony , Gautami Nair and Sudheer Karamana also play major roles. It is the remake of 2019 Bengali film Konttho. The film tells the story of a radio jockey and speech therapist. The music is by M Jayachandran and the lyrics are by BK Harinarayanan. This is the first time Jayasu...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Meri_Awas_Suno"
+    },
+    {
+      "title": "Night Caller (2021 film)",
+      "director": "Chad Ferrin",
+      "release_year": 2022,
+      "release_date": "2022-05-13",
+      "description": "Night Caller is a 2021 American horror film directed by Chad Ferrin, starring , Robert Miano, Steve Railsback, Bai Ling and Lew Temple.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Night_Caller_(2021_film)"
+    },
+    {
+      "title": "Tere Bajre Di Rakhi",
+      "director": "Syed Noor",
+      "release_year": 2022,
+      "release_date": "2022-05-03",
+      "description": "Tere Bajre Di Rakhi is a Pakistani Punjabi-language film written and directed by Syed Noor, with music composed by Zulfiqar Ali. It stars Saima Noor making her comeback in Punjabi Industry after 6 years with Nadeem Baig, Mustafa Qureshi, Iftikhar Thakur, Babar Ali along with debutent Abdullah Khan and Jannat Mirza in pivotal roles. The film released on the occasion of Eid-ul-Fitr 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Tere_Bajre_Di_Rakhi"
+    },
+    {
+      "title": "The Hall: Honoring the Greats of Stand-Up",
+      "director": "Marty Callner",
+      "release_year": 2022,
+      "release_date": "2022-05-01",
+      "description": "The Hall: Honoring the Greats of Stand-Up is a 2022 stand-up comedy film honoring four standup comedy legends, George Carlin, Robin Williams, Joan Rivers, and Richard Pryor. They were honored by Jon Stewart, John Mulaney, Chelsea Handler, and Dave Chappelle. Pete Davidson opened the show. The special was a part of Netflix is a Joke Fest comedy festival which was recorded live on May 1, 2022, at the Hollywood Palladium in Los Angeles.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Hall:_Honoring_the_Greats_of_Stand-Up"
+    },
+    {
+      "title": "Schemes in Antiques",
+      "director": "Derek Kwok",
+      "release_year": 2022,
+      "release_date": "2022-04-21",
+      "gross_revenue": "5.1637422E7",
+      "description": "Schemes in Antiques (Chinese: 古董局中局; pinyin: Gǔdǒng jú zhōng júis) is a 2021 Chinese adventure, suspense film based on Ma Boyong's novel title, Antique Bureau Central Bureau, directed by Derek Kwok and produced by Han Sanping. Starring Lei Jiayin, Li Xian, Xin Zhilei and Ge You. The movie tells of a dispute in the cultural relics circle caused by the return of a Buddha head by the Japanese Kido family. The film has been released in China on November 28, 2021, and later in Hong Kong on April 21, ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Schemes_in_Antiques"
+    },
+    {
+      "title": "K.G.F (film series)",
+      "director": "Prashanth Neel",
+      "release_year": 2022,
+      "release_date": "2022-04-14",
+      "gross_revenue": "1483.0",
+      "description": "K.G.F is an Indian Kannada-language period action film series based on the Kolar Gold Fields created by Prashanth Neel and produced by Hombale Films starring Yash. Set in the late 1970s and early 1980s the series follows Raja Krishnappa Bairya/Rocky (Yash), a Mumbai-based high ranking assassin born in poverty, to his rise to power in the Kolar Gold Fields and the subsequent uprising as a notorious businessman. The first installment Chapter 1 was released on 21 December 2018 and Chapter 2 on 14 A...",
+      "dbpedia_uri": "http://dbpedia.org/resource/K.G.F_(film_series)"
+    },
+    {
+      "title": "Fast and Feel Love",
+      "director": "Nawapol Thamrongrattanarit",
+      "release_year": 2022,
+      "release_date": "2022-04-06",
+      "gross_revenue": "581000.0",
+      "description": "Fast and Feel Love (Thai: เร็วโหด..เหมือนโกรธเธอ) is a 2022 Thai comedy film directed, written, and produced by Nawapol Thamrongrattanarit, starring Urassaya Sperbund and , released on Wednesday, April 6, 2022 (Chakri Memorial Day). The film is distributed by GDH.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Fast_and_Feel_Love"
+    },
+    {
+      "title": "Me Vasantrao",
+      "director": "Nipun Dharmadhikari",
+      "release_year": 2022,
+      "release_date": "2022-04-01",
+      "description": "Me Vasantrao is an Indian Marathi-language biopic based on life of indian classical musician Vasantrao Deshpande. The film is written by Nipun Dharmadhikari, Upendra Sidhaye and directed by Nipun Dharmadhikari. The film stars Rahul Deshpande is lead role.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Me_Vasantrao"
+    },
+    {
+      "title": "Bahay na Pula (film)",
+      "director": "Brillante Mendoza",
+      "release_year": 2022,
+      "release_date": "2022-02-25",
+      "description": "Bahay na Pula (lit. Red House) is a 2022 Filipino horror film directed by Brillante Mendoza, starring Julia Barreto, Xian Lim and Marco Gumabao.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Bahay_na_Pula_(film)"
+    },
+    {
+      "title": "Ah Boys to Men (film series)",
+      "director": "Jack Neo",
+      "release_year": 2022,
+      "release_date": "2022-02-01",
+      "budget": "3.99E7",
+      "description": "Ah Boys to Men is a Singaporean satirical military comedy film series that began in 2012 with the film Ah Boys to Men. Presented By J Team Production Mm2 Entertainment, produced by Jack Neo, Lim Teck and Leonard Lai. Jack Neo directed all four films. The movie has received a popular cult-following in recent years, in spite of low critic reviews.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Ah_Boys_to_Men_(film_series)"
+    },
+    {
+      "title": "Stop-Zemlia",
+      "director": "Kateryna Gornostai",
+      "release_year": 2022,
+      "release_date": "2022-01-21",
+      "budget": "829000.0",
+      "gross_revenue": "143434.0",
+      "imdb_id": "14028890",
+      "description": "Stop-Zemlia (Ukrainian: Стоп-Земля) is a 2021 Ukrainian romance, coming-of-age and drama film directed and written by Ukrainian director Kateryna Gornostai, and starring Maria Fedorchenko, Arsenii Markov, Yana Isaienko and Oleksandr Ivanov. The feature film portrays a teenage coming of age story. All the depicted events are fiction, but creative team attempted to portray them as improvisations. The characters had a set of activities when the script was written, but they gained traits once the ac...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Stop-Zemlia"
+    },
+    {
+      "title": "The Butcher's Daughter",
+      "director": "Christopher Thompson (actor)",
+      "release_year": 2022,
+      "release_date": "2022-01-18",
+      "imdb_id": "13353386",
+      "description": "The Butcher[s Daughter (French: Tendre et saignant) is a French film directed by Christopher Thompson (actor) in 2021. It had a cinema release in France the 18 January 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Butcher's_Daughter"
+    },
+    {
+      "title": "Whether the Weather Is Fine",
+      "director": "Carlo Francisco Manatad",
+      "release_year": 2021,
+      "release_date": "2021-12-25",
+      "description": "Whether the Weather is Fine or Kun Maupay Man It Panahon is a 2021 drama film directed and co-written by Carlo Francisco Manatad in his feature directorial debut. The film is a disaster movie which combines satirical and surreal elements. Starring Daniel Padilla, Rans Rifol, and Charo Santos-Concio, the film is set against the backdrop of the devastation caused by the 2013 Typhoon Haiyan in the Philippines. The film is a joint production by Black Sheep Productions, Globe Studios, and Dreamscape ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Whether_the_Weather_Is_Fine"
+    },
+    {
+      "title": "Chithirai Sevvaanam",
+      "director": "Stunt Silva",
+      "release_year": 2021,
+      "release_date": "2021-12-03",
+      "description": "Chithirai Sevvaanam is a 2021 Indian Tamil-language crime drama film directed by Silva, starring Samuthirakani and Pooja Kannan. Produced by A. L. Vijay's Think Big Studios, it was released on 3 December 2021 on ZEE5.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Chithirai_Sevvaanam"
+    },
+    {
+      "title": "Lead Me Home",
+      "director": "Jon Shenk",
+      "release_year": 2021,
+      "release_date": "2021-11-30",
+      "description": "Lead Me Home is a 2021 American short documentary film made for Netflix and directed by and Jon Shenk. It was nominated for Best Documentary Short Subject at the 94th Academy Awards.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Lead_Me_Home"
+    },
+    {
+      "title": "Sivaranjiniyum Innum Sila Pengalum",
+      "director": "Vasanth",
+      "release_year": 2021,
+      "release_date": "2021-11-26",
+      "description": "Sivaranjiniyum Innum Sila Pengalum (transl. Sivaranjani and a few other women) is a 2021 Indian Tamil-language anthology film directed by Vasanth S Sai. The film notably has no score, instead featuring sounds designed by Anand Krishnamoorthi. The production of the film started in early 2015, had the premiere in 2018 at several film festivals and finally released through OTT platform SonyLIV, skipping theatrical release. This film won three National Film Awards: Best Feature Film in Tamil, Best S...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Sivaranjiniyum_Innum_Sila_Pengalum"
+    },
+    {
+      "title": "Jurassic World Dominion prologue",
+      "director": "Colin Trevorrow",
+      "release_year": 2021,
+      "release_date": "2021-11-23",
+      "description": "A five-minute prologue to the 2022 film Jurassic World Dominion was released in 2021, initially as an IMAX-exclusive preview and later as an online short film. It is the second live-action short film in the Jurassic Park franchise, following Battle at Big Rock (2019). The prologue includes a prehistoric segment set during the Cretaceous, depicting various dinosaurs in their natural habitats. The sequence was shot on the island of Socotra, part of Yemen. The prologue also includes a modern-day se...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Jurassic_World_Dominion_prologue"
+    },
+    {
+      "title": "Hide and Seek (2021 film)",
+      "director": "Joel David Moore",
+      "release_year": 2021,
+      "release_date": "2021-11-19",
+      "description": "Hide and Seek is an American horror-thriller film written and directed by Joel David Moore. It is a remake of the 2013 Korean film of the same name. The film stars Jonathan Rhys Meyers, Jacinda Barrett, Joe Pantoliano and Mustafa Shakir. It premiered theatrically and on video on demand platforms on November 19, 2021.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Hide_and_Seek_(2021_film)"
+    },
+    {
+      "title": "The Best Families",
+      "director": "Javier Fuentes-León",
+      "release_year": 2021,
+      "release_date": "2021-11-04",
+      "description": "The Best Families (Spanish: Las mejores familias) is a 2020 Peruvian-Colombian black comedy-drama film written and directed by Javier Fuentes-León.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Best_Families"
+    },
+    {
+      "title": "Aranmanai (film series)",
+      "director": "Sundar C.",
+      "release_year": 2021,
+      "release_date": "2021-10-14",
+      "description": "Aranmanai (transl. Palace) is an Indian horror comedy film series directed by Sundar C. that consists of the Tamil-language films, Aranmanai (2014), Aranmanai 2 (2016) and Aranmanai 3 (2021). where Sundar C., Hansika , Manobala and Chithra Lakshmanan who appear in the first film, appear in the second film and also appear in third film playing different roles while Andrea Jeremiah, Vinay Rai, Raai Laxmi, Santhanam, Siddharth, Trisha, Poonam Bajwa, Soori, Arya, Raashi Khanna, Vivek, Yogi Babu, Sak...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Aranmanai_(film_series)"
+    },
+    {
+      "title": "24 (2021 film)",
+      "director": "Royston Tan",
+      "release_year": 2021,
+      "release_date": "2021-10-10",
+      "description": "24 is a 2021 Singaporean art house film directed by Royston Tan, starring James Choong.",
+      "dbpedia_uri": "http://dbpedia.org/resource/24_(2021_film)"
+    },
+    {
+      "title": "Mafia III",
+      "director": "Haden Blackman",
+      "release_year": 2021,
+      "release_date": "2021-10-01",
+      "description": "Mafia III is a 2016 action-adventure video game developed by Hangar 13 and published by 2K Games. It was released in October 2016 for PlayStation 4, Xbox One, and Windows, in May 2017 for macOS, and in October 2021 for Google Stadia. It is the sequel to Mafia II and the third installment in the Mafia series. Set within the fictional city of New Bordeaux (based on New Orleans) in 1968, the story follows former criminal and Vietnam veteran Lincoln Clay, who is forced to return to a life of crime t...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Mafia_III"
+    },
+    {
+      "title": "Tug of War (2021 film)",
+      "director": "Amil Shivji",
+      "release_year": 2021,
+      "release_date": "2021-09-12",
+      "description": "Tug of War (original title: Vuta N'Kuvute) is a 2021 Tanzanian coming-of-age political drama about love and resistance set in the final years of British colonial Zanzibar. The film was directed by Amil Shivji based on the award-winning novel of the same name by Adam Shafi. Tug of War is Tanzania's second entry ever, and its first in 21 years, for the Academy Award Best International Feature category. In November 2022, it was awarded the Tanit d'Or, the top prize at Tunisia's Carthage Film Festiv...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Tug_of_War_(2021_film)"
+    },
+    {
+      "title": "Once Upon a Time in Calcutta",
+      "director": "Aditya Vikram Sengupta",
+      "release_year": 2021,
+      "release_date": "2021-09-07",
+      "description": "Once Upon A Time In Calcutta is a 2021 Bengali language Indian-French-Norwegian film directed by Aditya Vikram Sengupta. It is the third film by the Indian director and produced by Wishberry Films, in association with , with Catherine Dussart Productions (of France) and DUOfilm As (of Norway). The film had its world premiere at the 78th Venice International Film Festival in September 2021. The film stars Sreelekha Mitra as the protagonist, along with Arindam Ghosh, Bratya Basu, Satrajit Sarkar, ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Once_Upon_a_Time_in_Calcutta"
+    },
+    {
+      "title": "Rurouni Kenshin: The Beginning",
+      "director": "Keishi Ōtomo",
+      "release_year": 2021,
+      "release_date": "2021-07-30",
+      "gross_revenue": "2.13E7",
+      "description": "Rurouni Kenshin: The Beginning (Japanese: るろうに剣心 最終章 The Beginning, Hepburn: Rurouni Kenshin: Saishūshō – Za Biginingu) is a 2021 Japanese live-action film based upon the manga series of the same name. It is the fifth and final installment of the Rurouni Kenshin film series and serves as a prequel, depicting Himura Kenshin's origins as the assassin \"Hitokiri Battōsai\", while exploring his relationship with the woman named Yukishiro Tomoe. As the film was produced simultaneously alongside Rurouni...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Rurouni_Kenshin:_The_Beginning"
+    },
+    {
+      "title": "Reunion 3: Singles Cruise",
+      "director": "Renny Harlin",
+      "release_year": 2021,
+      "release_date": "2021-07-28",
+      "description": "Reunion 3: Singles Cruise (also known as Class Reunion 3; Finnish: Luokkakokous 3 – Sinkkuristeily) is a 2021 Finnish comedy film directed by Renny Harlin. It is third entry of the Reunion film series, and the only film in the film series that Taneli Mustonen, who directed the previous films, was not involved in making. In the film, friends Tuomas and Niklas take their mutual friend Antti, who suffers from unemployment and loneliness, on a single cruise to improve his self-esteem and mental heal...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Reunion_3:_Singles_Cruise"
+    },
+    {
+      "title": "The Nest (2021 film)",
+      "director": "James Suttles",
+      "release_year": 2021,
+      "release_date": "2021-07-20",
+      "description": "The Nest, also known as The Bewailing, is a 2021 American horror film directed by James Suttles, starring Sarah Navratil, Kevin Patrick Murphy, Maple Suttles, Drez Ryan, Dee Wallace, Blaque Flowers, Anna Lynn Holleman and Penny Munroe.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Nest_(2021_film)"
+    },
+    {
+      "title": "Zombitopia",
+      "director": "Woo Ming Jin",
+      "release_year": 2021,
+      "release_date": "2021-07-02",
+      "description": "Zombitopia (lit. known as Zombietopia) is a 2021 Malaysian apocalyptic horror thriller film directed by Woo Ming Jin along written by himself with Neesa Jamal, starring Shaheizy Sam, Elvina Mohamad, Bront Palarae, Azman Hassan and Sharifah Amani. The film revolves around a mysterious virus that causes infected humans to act violently, causing a zombie apocalypse. With the film being licensed with Skop Productions, the film was originally scheduled for released on 13 February 2020 but postponed d...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Zombitopia"
+    },
+    {
+      "title": "Audible (film)",
+      "director": "Matthew Ogens",
+      "release_year": 2021,
+      "release_date": "2021-07-01",
+      "description": "Audible is a 2021 American short documentary film made for Netflix and directed by Matthew Ogens. It was nominated for Best Documentary Short at the 94th Academy Awards.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Audible_(film)"
+    },
+    {
+      "title": "Maadathy",
+      "director": "Leena Manimekalai",
+      "release_year": 2021,
+      "release_date": "2021-06-24",
+      "description": "Maadathy, also known internationally as Maadathy: An Unfairy Tale, is a 2019 Indian-Tamil language folklore drama film written, directed and produced by Leena Manimekalai under the banner of Karuvachy films and co-produced by Piiyush Singh (Golden Ratio Films), Bhavana Goparaju, and Abinandhan Ramanujam. The film stars Ajmina Kassim, Patrick Raj, Semmalar Annam and Arul Kumar in the lead roles. The film was premiered at Busan International Film Festival 2019 and received a positive critical resp...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Maadathy"
+    },
+    {
+      "title": "Whispering Corridors (film series)",
+      "director": "Kim Tae-yong",
+      "release_year": 2021,
+      "release_date": "2021-06-17",
+      "description": "Whispering Corridors (Korean: 여고괴담; Hanja: 女高怪談; RR: Yeogo goedam; also known as Ghost School and Ghost School Horror) is a South Korean supernatural horror film series. The series uses an all-girls high school as the backdrop for each of its films. Every Whispering Corridors film features a different plot, characters and settings. The series is notable for helping generate the explosion of the New Korean Wave cinematic movement, and dealing with taboo topics such as authoritarianism in the hars...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Whispering_Corridors_(film_series)"
+    },
+    {
+      "title": "Night Walk (film)",
+      "director": "Aziz Tazi",
+      "release_year": 2021,
+      "release_date": "2021-06-15",
+      "description": "Night Walk is an American crime thriller drama film written and directed by Aziz Tazi and starring Sean Stone, Mickey Rourke, Sarah Alami, French rapper La Fouine and Eric Roberts. The film is a modern-day Romeo and Juliet between the West and the Middle East that turns into a crime drama. In the film, a hero's quest for justice evolves into a spiritual journey led by Muslim inmates, from the moderate convert to terror-linked fundamentalists. Night Walk was shot between Los Angeles and five citi...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Night_Walk_(film)"
+    },
+    {
+      "title": "Untitled Earth Sim 64",
+      "director": "Jonathan Wilhelmsson",
+      "release_year": 2021,
+      "release_date": "2021-05-03",
+      "budget": "15000.0",
+      "description": "Untitled Earth Sim 64 is a 2021 science-fiction comedy short film written and directed by Jonathan Wilhelmsson (who previously made Waltzing Tilda). The story is about Marie, a woman who comes to learn that her universe is an untitled simulation. The film was shot in Gothenburg, Sweden, and was released in May 2021 along with a behind the scenes documentary on the making of the film. It was later released by Gunpowder & Sky under their science-fiction label Dust.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Untitled_Earth_Sim_64"
+    },
+    {
+      "title": "A Week Away",
+      "director": "Roman White",
+      "release_year": 2021,
+      "release_date": "2021-03-26",
+      "description": "A Week Away is a 2021 American Christian jukebox musical teen drama film directed by Roman White. The film was written by Alan Powell, Kali Bailey, and Gabe Vasquez. The film's songs were produced and mixed by Adam Watts and co-produced by Cory Clark (the team also co-wrote the film's original songs with Powell). It stars Bailee Madison, Kevin Quinn, David Koechner, and Sherri Shepherd with cameos from Amy Grant and Steven Curtis Chapman. Producers for the film are Alan Powell, Gabe Vasquez, and...",
+      "dbpedia_uri": "http://dbpedia.org/resource/A_Week_Away"
+    },
+    {
+      "title": "La Femme Anjola",
+      "director": "Mildred Okwo",
+      "release_year": 2021,
+      "release_date": "2021-03-19",
+      "description": "La Femme Anjola is a 2021 film written by Tunde Babalola and directed by Mildred Okwo. It is a film noir psychological thriller which stars Rita Dominic and Nonso Bassey. It was released in cinemas on March 19, 2021.",
+      "dbpedia_uri": "http://dbpedia.org/resource/La_Femme_Anjola"
+    },
+    {
+      "title": "A Kaddish for Bernie Madoff: The Film",
+      "director": "Alicia J. Rose",
+      "release_year": 2021,
+      "release_date": "2021-03-05",
+      "description": "A Kaddish for Bernie Madoff: The Film is a 2021 film starring Alicia J. Rabins & directed by Alicia J. Rose based on the 2012 one-woman show created & written by Rabins.",
+      "dbpedia_uri": "http://dbpedia.org/resource/A_Kaddish_for_Bernie_Madoff:_The_Film"
+    },
+    {
+      "title": "Bhor (film)",
+      "director": "Kamakhya Narayan Singh",
+      "release_year": 2021,
+      "release_date": "2021-02-05",
+      "description": "Bhor is an Indian Hindi-language film directed by Kamakhya Narayan Singh and Produced by Anjani Kumar Singh. It stars Nalneesh Neel, Saveree Sri Gaur, Devesh Ranjan, Pavleen Gujral. The movie is streaming on MX Player.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Bhor_(film)"
+    },
+    {
+      "title": "Fan Girl (2020 film)",
+      "director": "Antoinette Jadaone",
+      "release_year": 2020,
+      "release_date": "2020-12-25",
+      "description": "Fan Girl is a 2020 Philippine coming of age film starring Charlie Dizon and Paulo Avelino. It is written and directed by Antoinette Jadaone.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Fan_Girl_(2020_film)"
+    },
+    {
+      "title": "Yeshu (TV serial)",
+      "director": "Arvind Babbal",
+      "release_year": 2020,
+      "release_date": "2020-12-22",
+      "description": "Yeshu is an Indian Hindi-language drama television series broadcasting on &TV. It premiered on 22 December 2020 and produced by Arvind Babbal. It starring Sonali Nikam , Aarya Dharmchand Kumar and Vivaan Shah.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Yeshu_(TV_serial)"
+    },
+    {
+      "title": "Lost at Christmas",
+      "director": "Ryan Hendrick",
+      "release_year": 2020,
+      "release_date": "2020-12-07",
+      "description": "Lost at Christmas is a 2020 British romantic comedy film. It is written and directed by Ryan Hendrick and stars Kenny Boyle, Natalie Clark, Sylvester McCoy, Sanjeev Kohli, Clare Grogan and Frazer Hines.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Lost_at_Christmas"
+    },
+    {
+      "title": "Tex Avery Screwball Classics",
+      "director": "Tex Avery",
+      "release_year": 2020,
+      "release_date": "2020-12-01",
+      "description": "Tex Avery Screwball Classics is a series of single-disc Blu-ray and DVD sets by Warner Bros. Home Entertainment's Warner Archive unit collecting various theatrical cartoons from animation director Tex Avery during his tenure at the Metro-Goldwyn-Mayer's cartoon division between the years of 1942 and 1955. It is the first comprehensive collection of Avery's MGM shorts to be released on home media in North America since The Compleat Tex Avery series of laserdiscs in the 1990s, with many of the sho...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Tex_Avery_Screwball_Classics"
+    },
+    {
+      "title": "Bugs Bunny 80th Anniversary Collection",
+      "director": "Ken Harris",
+      "release_year": 2020,
+      "release_date": "2020-12-01",
+      "description": "Looney Tunes: Bugs Bunny 80th Anniversary Collection is a Blu-ray Disc box-set released by Warner Bros. Home Entertainment on December 1, 2020. It contains 60 Bugs Bunny shorts and numerous bonus features and supplementary content. The set's packaging includes a slip book, a booklet, and a collectible Bugs Bunny Funko! POP doll. Initially conceived by Warner Bros. Home Entertainment as a single-disc Blu-ray Disc version of The Essential Bugs Bunny DVD set with an additional Funko! doll, animatio...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Bugs_Bunny_80th_Anniversary_Collection"
+    },
+    {
+      "title": "This Is Not a Burial, It's a Resurrection",
+      "director": "Lemohang Jeremiah Mosese",
+      "release_year": 2020,
+      "release_date": "2020-11-27",
+      "description": "This Is Not a Burial, It's a Resurrection is a 2019 Mosotho drama film directed by Lemohang Jeremiah Mosese and co-produced by Cait Pansegrouw and Elias Ribeiro. The film stars Mary Twala Mhlongo, with Jerry Mofokeng Wa, Makhaola Ndebele, Tseko Monaheng and Siphiwe Nzima-Ntskhe in supporting roles. It was selected as the Lesotho entry for the Academy Award for Best International Feature Film at the 93rd Academy Awards, but it was not nominated. It was the first time Lesotho had made a submission...",
+      "dbpedia_uri": "http://dbpedia.org/resource/This_Is_Not_a_Burial,_It's_a_Resurrection"
+    },
+    {
+      "title": "The Diam Diam Era",
+      "director": "Jack Neo",
+      "release_year": 2020,
+      "release_date": "2020-11-26",
+      "description": "Long Long Time Ago: The Diam Diam Era (Chinese: 我们的故事3：沉默的年代) is a 2020 Singaporean comedy drama film by Jack Neo. Set in 1980s, it tells the story of the Lim family and their neighbours, now living in HDB flats. Through major policy changes and political climate in the era, they experience great changes in their lives and environment. It was released on 26 November 2020 in Singaporean cinemas. The film stars an ensemble cast, which includes Mark Lee, Richie Koh, Meixin Macy, Danny Lee, Henry Th...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Diam_Diam_Era"
+    },
+    {
+      "title": "Fiddler: A Miracle of Miracles",
+      "director": "Max Lewkowicz",
+      "release_year": 2020,
+      "release_date": "2020-11-25",
+      "gross_revenue": "558816.0",
+      "description": "Fiddler: A Miracle of Miracles is a 2019 American documentary film about the creation and significance of the 1964 musical Fiddler on the Roof. Directed by Max Lewkowicz, it features interviews with Fiddler creators such as Jerry Bock, Sheldon Harnick, Joseph Stein, and Harold Prince, as well as scholars, actors, and other musical theatre figures such as Stephen Sondheim and Lin-Manuel Miranda.The documentary includes rarely-seen footage of the original Broadway cast as well as interviews with c...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Fiddler:_A_Miracle_of_Miracles"
+    },
+    {
+      "title": "Delicate Sound of Thunder (film)",
+      "director": "Wayne Isham",
+      "release_year": 2020,
+      "release_date": "2020-11-20",
+      "description": "Delicate Sound of Thunder is a concert film by Pink Floyd, filmed during their A Momentary Lapse of Reason Tour from 19 August 1988 to 23 August 1988 at the Nassau Coliseum in Uniondale, New York, with some additional footage from 21–22 June 1988 at the Place d'Armes of the Château de Versailles, Versailles, France. It was initially released on VHS, Video CD and Laserdisc formats. The film was nominated for a Grammy Award for Best Long Form Music Video at the 32nd Annual Grammy Awards. The film ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Delicate_Sound_of_Thunder_(film)"
+    },
+    {
+      "title": "Two Distant Strangers",
+      "director": "Travon Free",
+      "release_year": 2020,
+      "release_date": "2020-11-20",
+      "description": "Two Distant Strangers is a 2020 American short film written by Travon Free and directed by Free and Martin Desmond Roe. The film examines the deaths of Black Americans during encounters with police through the eyes of a character trapped in a time loop that keeps ending in his death. Two Distant Strangers won the award for Best Live Action Short Film at the 93rd Academy Awards, marking distributor Netflix's first win in the category.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Two_Distant_Strangers"
+    },
+    {
+      "title": "The Devil's Bondwoman",
+      "director": "Lloyd B. Carleton",
+      "release_year": 2020,
+      "release_date": "2020-11-16",
+      "description": "The Devil's Bondwoman is a 1916 American silent Melodrama directed by Lloyd B. Carleton. The film was based on the story by F. McGrew Willis and scenarized by Maie B. Havey and Fred Myton. The movie features Dorothy Davenport and Emory Johnson and employed the same cast seen in other Red Feather films, e.g. Barriers of Society, Black Friday. The film has an allegorical prologue taking place in Hell and an epilogue. Wealthy banker Mason Van Horton becomes involved with socialite Doria Manners who...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Devil's_Bondwoman"
+    },
+    {
+      "title": "King of Boys",
+      "director": "Kemi Adetiba",
+      "release_year": 2020,
+      "release_date": "2020-10-18",
+      "description": "King of Boys is a 2018 Nigerian crime political thriller film written, co-produced and directed by Kemi Adetiba. It is the second movie directed by Kemi Adetiba following the release of The Wedding Party. It reunites Kemi Adetiba with Adesua Etomi and Sola Sobowale, after they worked together in her directorial debut, The Wedding Party. The movie is focused on power tussle and stars rappers Illbliss and Reminisce in their movie debut roles. Other casts member include Paul Sambo, Osas Ajibade Igh...",
+      "dbpedia_uri": "http://dbpedia.org/resource/King_of_Boys"
+    },
+    {
+      "title": "World of Tomorrow (film)",
+      "director": "Don Hertzfeldt",
+      "release_year": 2020,
+      "release_date": "2020-10-09",
+      "description": "World of Tomorrow is an avant-garde animated science fiction short film series written, directed, produced, animated, and edited by Don Hertzfeldt. The series began with World of Tomorrow (2015), which was followed by World of Tomorrow Episode Two: The Burden of Other People's Thoughts (2017) and World of Tomorrow Episode Three: The Absent Destinations of David Prime (2020). The series features the voice of Julia Pott, frequently alongside Hertzfeldt's four-year-old niece Winona Mae, who was rec...",
+      "dbpedia_uri": "http://dbpedia.org/resource/World_of_Tomorrow_(film)"
+    },
+    {
+      "title": "Yellow Rose (film)",
+      "director": "Diane Paragas",
+      "release_year": 2020,
+      "release_date": "2020-10-09",
+      "gross_revenue": "367849.0",
+      "description": "Yellow Rose is a 2019 American-Filipino musical drama film co-written and directed by Diane Paragas. It is produced by Cecilia R. Mejia, Diane Paragas, Rey Cuerdo, Orian Williams, and Jeremiah Abraham. The film stars Eva Noblezada, Dale Watson, Princess Punzalan, and Lea Salonga. The plot follows Rose, a Filipina illegal immigrant, who dreams of leaving her small town in Texas to pursue her country music dreams. Her plan is put on hold when her mother is taken by Immigration and Customs Enforcem...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Yellow_Rose_(film)"
+    },
+    {
+      "title": "Tales from the Hood 3",
+      "director": "Rusty Cundieff",
+      "release_year": 2020,
+      "release_date": "2020-10-06",
+      "description": "Tales from the Hood 3 is a 2020 American horror-comedy anthology film written and directed by Rusty Cundieff and Darin Scott and executive-produced by Spike Lee. The film is the sequel to Cundieff and Scott's 2018 horror anthology Tales from the Hood 2. The wraparound story is \"The Mouths of Babes and Demons\" while the segments are \"Ruby Gates\", \"The Bunker\", \"Operatic\" and \"Dope Kicks\". \"The Mouths of Babes and Demons\", \"The Bunker\" and \"Dope Kicks\" were written and directed by Rusty Cundieff w...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Tales_from_the_Hood_3"
+    },
+    {
+      "title": "Slim and I",
+      "director": "Kriv Stenders",
+      "release_year": 2020,
+      "release_date": "2020-09-10",
+      "description": "Slim and I is a 2020 Australian documentary film directed by Kriv Stenders about the life of Joy McKean and Slim Dusty, Australia's most successful husband and wife singer-songwriter duo.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Slim_and_I"
+    },
+    {
+      "title": "Son of the White Mare",
+      "director": "Marcell Jankovics",
+      "release_year": 2020,
+      "release_date": "2020-08-17",
+      "description": "Son of the White Mare (Hungarian: Fehérlófia) is a 1981 Hungarian animated fantasy adventure film directed by Marcell Jankovics. The story's main character is Fehérlófia (Son of the White Mare), who has superhuman powers. It is based on the narrative poetry, under the same title, from László Arany and ancient Hunnic, Avaric and Hungarian legends; as a tribute to ancient steppe peoples.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Son_of_the_White_Mare"
+    },
+    {
+      "title": "Pearl (2020 film)",
+      "director": "Bobby Roth",
+      "release_year": 2020,
+      "release_date": "2020-08-11",
+      "description": "Pearl is a 2020 American drama film directed by Bobby Roth, starring Anthony LaPaglia, Larsen Thompson and Sarah Carter.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Pearl_(2020_film)"
+    },
+    {
+      "title": "The Swamp (documentary)",
+      "director": "Daniel DiMauro",
+      "release_year": 2020,
+      "release_date": "2020-08-04",
+      "description": "The Swamp is a 2020 American documentary film about the fundraising and political culture on Capitol Hill in Washington, D.C. Released in August 2020 on HBO, it chronicles the activities of three Republican congressmen. Matt Gaetz of Florida, Thomas Massie of Kentucky and Ken Buck of Colorado are portrayed as outsiders to the dominant party patronage system. The film takes place largely in 2019 and chronicles their reactions to the biggest political stories of that year along with commentary on ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Swamp_(documentary)"
+    },
+    {
+      "title": "The Very Excellent Mr. Dundee",
+      "director": "Dean Murphy",
+      "release_year": 2020,
+      "release_date": "2020-07-17",
+      "description": "The Very Excellent Mr. Dundee is a 2020 Australian comedy film directed by Dean Murphy, written by Robert Mond and Dean Murphy, and starring Paul Hogan, Rachael Carpani, Jacob Elordi, Charlotte Stent, Nate Torrence, Chevy Chase, John Cleese, Olivia Newton-John, Reginald VelJohnson, Shane Jacobson, Wayne Knight and Kerry Armstrong. It was released on Amazon Prime Video on 17 July 2020, and was the final film Olivia Newton-John starred in before her death in 2022.",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Very_Excellent_Mr._Dundee"
+    },
+    {
+      "title": "Blood-Club Dolls 2",
+      "director": "Shutaro Oku",
+      "release_year": 2020,
+      "release_date": "2020-07-11",
+      "description": "Blood-Club Dolls 2 is a 2020 Japanese action horror film based on the 2011 anime television series Blood-C co-created by studio Production I.G and manga artist group CLAMP. The film is a second part of the two-part film, following in 2018. The film is directed and written by Shutaro Oku, with Junichi Fujisaku as a co-writer, distributed by NEGA and MOVIC, and stars Ryūnosuke Matsumura, Ryō Kitazano, Kanon Miyahara, Keisuke Minami, and Maon Kurosaki. The film was released in Japanese theaters on ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Blood-Club_Dolls_2"
+    },
+    {
+      "title": "Scare Package",
+      "director": "Aaron B. Koontz",
+      "release_year": 2020,
+      "release_date": "2020-06-18",
+      "description": "Scare Package is a 2020 American anthology horror comedy film created by Aaron B. Koontz and Cameron Burns. It features a series of horror shorts written and directed by Aaron B. Koontz, Courtney Andujar, Hillary Andujar, Anthony Cousins, Emily Hagins, Chris McInroy, Noah Segan, and Baron Vaughn. The film debuted at the Sitges Film Festival in October 2019, and was released exclusively on Shudder on June 18, 2020. A sequel to the film was announced late 2021. Scare Package II: Rad Chad's Revenge...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Scare_Package"
+    },
+    {
+      "title": "Playdate with Destiny",
+      "director": "David Silverman (animator)",
+      "release_year": 2020,
+      "release_date": "2020-04-10",
+      "description": "Maggie Simpson in \"Playdate with Destiny\" is a 2020 American animated short film based on the animated television series The Simpsons. The film features Maggie Simpson. It is the first Simpsons short film released after the Disney acquisition of 20th Century Studios (formerly 20th Century Fox). The film premiered on February 29, 2020, attached to advance screenings of the Disney/Pixar release Onward, with its general rollout on March 6, 2020. It is the third Simpsons film made for theatrical rel...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Playdate_with_Destiny"
+    },
+    {
+      "title": "The Fourth Commandment (1927 film)",
+      "director": "Emory Johnson",
+      "release_year": 2020,
+      "release_date": "2020-03-27",
+      "description": "The Fourth Commandment is a 1927 American silent drama film directed by Emory Johnson and based on the short story \"The Fourth Commandment\" by Emilie Johnson. The film stars Belle Bennett, Henry Victor, June Marlowe, and Mary Carr. The film was released on March 20, 1927 by Universal Pictures. The Fourth Commandment is - \"Honor your father and your mother. . .\"",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Fourth_Commandment_(1927_film)"
+    },
+    {
+      "title": "Curtiz (film)",
+      "director": "Tamás Yvan Topolánszky",
+      "release_year": 2020,
+      "release_date": "2020-03-15",
+      "description": "Curtiz is a 2018 Hungarian film by Tamás Yvan Topolánszky, based on the making of the 1942 Humphrey Bogart film Casablanca by Hungarian director Michael Curtiz. That year, America is on the brink of World War II. Michael Curtiz filmed his later iconic, multi-Oscar-winning film Casablanca under most unusual circumstances. During the shoot, he had to battle almost daily with political censors who wanted to change the film's script. In addition, Curtiz's troubled relationship with his daughter made...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Curtiz_(film)"
+    },
+    {
+      "title": "Swimming Out Till the Sea Turns Blue",
+      "director": "Jia Zhangke",
+      "release_year": 2020,
+      "release_date": "2020-02-20",
+      "description": "Swimming Out Till the Sea Turns Blue (simplified Chinese: 一直游到海水变蓝, pinyin: Yī zhí yóu dào hǎi shuǐ biàn lán) is a 2020 documentary film by Jia Zhangke about three authors attending a literary festival in his hometown in Shanxi.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Swimming_Out_Till_the_Sea_Turns_Blue"
+    },
+    {
+      "title": "The Renovation",
+      "director": "Taneli Mustonen",
+      "release_year": 2020,
+      "release_date": "2020-02-19",
+      "budget": "1.0",
+      "description": "The Renovation (Finnish: Se mieletön remppa) is a 2020 Finnish comedy film directed by Taneli Mustonen. It tells the story of a couple, Jalmari and Maija, who inherit a house in need of a major renovation, taking the situation to catastrophic proportions. Sami Hedberg and Kiti Kokkonen starred in the main roles of the film, in addition to which Hedberg portrays numerous supporting characters. The film is a Finnish remake of the 2018 Norwegian film Norske byggeklosser, which in turn is a remake o...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Renovation"
+    },
+    {
+      "title": "Impossible Monsters (film)",
+      "director": "Nathan Catucci",
+      "release_year": 2020,
+      "release_date": "2020-02-14",
+      "description": "Impossible Monsters is a 2019 American psychological thriller film written and directed by Nathan Catucci and starring Santino Fontana, Natalie Knepp, Devika Bhise and Dónall Ó Héalaí. The film had its world premiere at the Cinequest Film Festival on March 9, 2019, and was released in selected theaters on February 14, 2020.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Impossible_Monsters_(film)"
+    },
+    {
+      "title": "Ducky-Ducky-Ducky",
+      "director": "Sergei Solovyov (film director)",
+      "release_year": 2020,
+      "release_date": "2020-01-27",
+      "description": "Ducky-Ducky-Ducky (Russian: Ути-ути-ути, romanized: Uti-uti-uti) is a 2020 Russian short film directed by Sergei Solovyov. Movie party of the competition program of the 49th Rotterdam Film Festival.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Ducky-Ducky-Ducky"
+    },
+    {
+      "title": "Judy Versus Capitalism",
+      "director": "Mike Hoolboom",
+      "release_year": 2020,
+      "release_date": "2020-01-24",
+      "description": "Judy Versus Capitalism is a Canadian documentary film, directed by Mike Hoolboom and released in 2020. The film is an experimentally structured documentary portrait of the life of influential Canadian activist Judy Rebick, based in part on her memoir Heroes in My Head. The film premiered in January 2020 at the International Film Festival Rotterdam, and had its Canadian premiere in May 2020 at the Hot Docs Canadian International Documentary Festival. It was screened at Montreal's Festival du nouv...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Judy_Versus_Capitalism"
+    },
+    {
+      "title": "The Man Standing Next",
+      "director": "Woo Min-ho",
+      "release_year": 2020,
+      "release_date": "2020-01-22",
+      "budget": "1.8E7",
+      "gross_revenue": "3.47E7",
+      "description": "The Man Standing Next (Korean: 남산의 부장들; Hanja: 南山의 部長들; RR: Namsanui bujangdeul; lit. Chiefs of Namsan) is a 2020 South Korean political drama film directed by Woo Min-ho. Based on an original novel of the same title, the film stars Lee Byung-hun, Lee Sung-min, Kwak Do-won, and Lee Hee-joon as the high ranking officials of the Korean government and the Korean Central Intelligence Agency (KCIA) during the presidency of Park Chung-hee 40 days before his assassination in 1979. The film premiered in...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Man_Standing_Next"
+    },
+    {
+      "title": "The Grudge (film series)",
+      "director": "Toby Wilkins",
+      "release_year": 2020,
+      "release_date": "2020-01-03",
+      "budget": "4.5E7",
+      "gross_revenue": "3.094E8",
+      "description": "The Grudge is an American horror film series released by Sony Pictures, based on, and a part of the larger Japanese Ju-On franchise. The first installment is a remake of Ju-On: The Grudge and follows a similar storyline to the Japanese film. The sequel, The Grudge 2, is not a remake and follows a unique storyline, albeit still borrowing some plot elements from several Japanese predecessors. Another sequel, The Grudge 3, picks up shortly after the events of the second film. The series focuses on ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/The_Grudge_(film_series)"
+    },
+    {
+      "title": "Prathi Poovankozhi",
+      "director": "Rosshan Andrrews",
+      "release_year": 2019,
+      "release_date": "2019-12-20",
+      "description": "Prathi Poovankozhi (transl. Accused rooster) is a 2019 Indian Malayalam-language revenge thriller film directed by Rosshan Andrrews and written by Unni R. based on his story Sankadam. It stars Manju Warrier, Rosshan Andrrews and Anusree . Central Pictures released the film in theaterson 20 December 2019. Boney Kapoor purchased the Tamil, Telugu and Kannada remake rights of the movie.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Prathi_Poovankozhi"
+    },
+    {
+      "title": "Star Wars sequel trilogy",
+      "director": "Rian Johnson",
+      "release_year": 2019,
+      "release_date": "2019-12-20",
+      "budget": "8.37E8",
+      "gross_revenue": "4.475E9",
+      "description": "The Star Wars sequel trilogy is the third trilogy of the main Star Wars franchise, an American space opera created by George Lucas. It is produced by Lucasfilm Ltd. and distributed by Walt Disney Studios Motion Pictures. The trilogy consists of episodes VII through IX, chronologically following the prequel trilogy (Episodes I–III; 1999–2005) and the original trilogy (Episodes IV–VI; 1977–1983), serving as the final act of the \"Skywalker saga\". Lucas had planned a sequel trilogy as early as 1976,...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Star_Wars_sequel_trilogy"
+    },
+    {
+      "title": "In Fabric",
+      "director": "Peter Strickland (director)",
+      "release_year": 2019,
+      "release_date": "2019-12-06",
+      "description": "In Fabric is a 2018 British horror comedy film, written and directed by Peter Strickland. The film follows a haunted red dress as it torments various owners. It stars Marianne Jean-Baptiste, Hayley Squires, Leo Bill, and Gwendoline Christie. It had its world premiere at the Toronto International Film Festival on 13 September 2018. It was released in the United Kingdom on 28 June 2019 by Curzon Artificial Eye and was released in the United States on 6 December 2019 by A24.",
+      "dbpedia_uri": "http://dbpedia.org/resource/In_Fabric"
+    },
+    {
+      "title": "Sagardwipey Jawker Dhan",
+      "director": "Sayantan Ghosal",
+      "release_year": 2019,
+      "release_date": "2019-12-06",
+      "description": "Sagardwipey Jawker Dhan is a 2019 Bengali action adventure film directed by Sayantan Ghosal and written by Sougata Basu with influence of the original story by Hemendra Kumar Roy. The film is based on the adventure story of Bimal-Kumar duo written by Hemendra Kumar Roy. It is the second movie after Jawker Dhan. The film had a theatrical release on 6 December 2019.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Sagardwipey_Jawker_Dhan"
+    },
+    {
+      "title": "Commando (film series)",
+      "director": "Dilip Ghosh (film director)",
+      "release_year": 2019,
+      "release_date": "2019-11-29",
+      "budget": "75.0",
+      "gross_revenue": "100.66",
+      "description": "Commando is a series of Indian Hindi-language action thriller films produced by Vipul Amrutlal Shah under the banner of Sunshine Pictures. The film series is co-produced and distributed by Reliance Entertainment. The first film Commando: A One Man Army was released in 2013 is directed by Dilip Ghosh, the second film Commando 2: The Black Money Trail released in 2017 is directed by Deven Bhojani while the third film Commando 3 is directed by Aditya Datt released in 2019. The series follows the st...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Commando_(film_series)"
+    },
+    {
+      "title": "Market Raja MBBS",
+      "director": "Saran (director)",
+      "release_year": 2019,
+      "release_date": "2019-11-29",
+      "description": "Market Raja MBBS (transl. Market King MBBS) is 2019 Indian Tamil-language film written and directed by Saran and produced by S. Mohan. The film stars Arav in the title role in his lead film debut alongside Nikesha Patel. The music was composed by Simon K. King, while cinematography was handled by the director's younger brother, K. V. Guhan and editing by Gopi Krishna. The film released on 29 November 2019.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Market_Raja_MBBS"
+    },
+    {
+      "title": "Return to Return to Nuke 'Em High AKA Volume 2",
+      "director": "Lloyd Kaufman",
+      "release_year": 2019,
+      "release_date": "2019-11-29",
+      "description": "Return to Return to Nuke 'Em High AKA Volume 2 is a 2017 American science fiction comedy horror film, made by the cult classic B-movie production group Troma Entertainment. It is directed by Troma co-founder Lloyd Kaufman and the fifth in the Nuke 'Em High film series.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Return_to_Return_to_Nuke_'Em_High_AKA_Volume_2"
+    },
+    {
+      "title": "Radioflash (film)",
+      "director": "Ben McPherson",
+      "release_year": 2019,
+      "release_date": "2019-11-15",
+      "description": "Radioflash is a 2019 American thriller drama film directed by Ben McPherson, starring Brighton Sharbino, Dominic Monaghan, Will Patton, Fionnula Flanagan and Miles Anderson.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Radioflash_(film)"
+    },
+    {
+      "title": "If I Were Rich (2019 film)",
+      "director": "Álvaro Fernández Armero",
+      "release_year": 2019,
+      "release_date": "2019-11-15",
+      "description": "If I Were Rich (Spanish: Si yo fuera rico) is a 2019 Spanish comedy film directed by Álvaro Fernández Armero and consisting of a remake of the French film If I Were a Rich Man. It stars Álex García and Alexandra Jiménez alongside Jordi Sánchez, Adrián Lastra, Diego Martín, Franky Martín, Antonio Resines and Paula Echevarría.",
+      "dbpedia_uri": "http://dbpedia.org/resource/If_I_Were_Rich_(2019_film)"
+    },
+    {
+      "title": "Bala (2019 film)",
+      "director": "Amar Kaushik",
+      "release_year": 2019,
+      "release_date": "2019-11-08",
+      "description": "Bala is a 2019 Hindi-language satirical black comedy film directed by Amar Kaushik and produced by Dinesh Vijan, based on an original story by Bengali film director Pavel Bhattacharjee. It stars Ayushmann Khurrana, Bhumi Pednekar and Yami Gautam. Bala revolves around the protagonist Balmukund Shukla, a young man living in Kanpur who is suffering from male pattern baldness, and the story is about his lack of confidence and societal pressure that comes with premature balding. It focuses on the soc...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Bala_(2019_film)"
+    },
+    {
+      "title": "Nalpathiyonnu (41)",
+      "director": "Lal Jose",
+      "release_year": 2019,
+      "release_date": "2019-11-08",
+      "imdb_id": "9877340",
+      "description": "Nalpathiyonnu (41) is a 2019 Indian Malayalam language satirical drama film directed by Lal Jose and written by P.G. Prageesh. It stars Biju Menon, Sharanjith, Nimisha Sajayan, Dhanya Ananya, Indrans and Suresh Krishna. in the lead roles. The film is produced by G Prajith, Anumod Bose and Adarsh Narayan and the music composed by Bijibal. This socio-political satire unravels through hilarious incidents when two people - strong followers of Communist ideologies-set out on a pilgrimage to Sabarimal...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Nalpathiyonnu_(41)"
+    },
+    {
+      "title": "Timelapse of the Future",
+      "director": "John Boswell (musician)",
+      "release_year": 2019,
+      "release_date": "2019-11-03",
+      "gross_revenue": "29300.0",
+      "imdb_id": "10460106",
+      "description": "Timelapse of the Future: A Journey to the End of Time is a 2019 short epic animated pseudo-documentary web film created by American astronomy-themed musician and filmmaker John D. Boswell, following Timelapse of the Entire Universe. The 29-minute film is a flowmotion—a combination of a hyper-lapse, time-lapse, and regular shots—of the universe from 2019 to the end of time, consisting of self-made and fair use footages films, the Internet, and speeches by scientists, with the lapse doubling every...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Timelapse_of_the_Future"
+    },
+    {
+      "title": "Nongphadok Lakpa Atithi",
+      "director": "Aribam Syam Sharma",
+      "release_year": 2019,
+      "release_date": "2019-11-01",
+      "description": "Nongphadok Lakpa Atithi (English: The Guest) is a 2019 Manipuri film directed by Aribam Syam Sharma and produced by Deepak Sarmah. It stars Ningthoujam Rina and Lairenjam Olen in the lead roles. The film was premiered at the 3rd Guwahati International Film Festival 2019 as the Opening Film of the Indian section. It is based on Lamabam Viramani's short story Atithi. It was written as a radio play by M. K. Binodini Devi under the title Nongphadok Lakpada. The adapted screenplay of the film was don...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Nongphadok_Lakpa_Atithi"
+    },
+    {
+      "title": "Dew (film)",
+      "director": "Chukiat Sakveerakul",
+      "release_year": 2019,
+      "release_date": "2019-10-31",
+      "description": "Dew, known in Thai as Dew, Pai Duai Kan Na (ดิว ไปด้วยกันนะ 'Dew, let's go together') is a 2019 Thai drama film directed by Chookiat Sakveerakul and released by CJ Major Entertainment. It stars Sukollawat Kanaros, Sadanont Durongkavarojana, Pawat Chittsawangdee, Darisa Karnpoj and Yarinda Bunnag. The film tells the story of Pob and Dew, teenage boys who develop feelings for each other amid the prevailing homophobic attitudes of 1990s Thai society, but then become parted. Two decades later, Pob, ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Dew_(film)"
+    },
+    {
+      "title": "Alakada Reloaded",
+      "director": "Toyin Abraham",
+      "release_year": 2019,
+      "release_date": "2019-10-30",
+      "description": "Alakada Reloaded is a 2017 Nigerian comedy film by Nigerian actress and filmmaker Toyin Abraham. The film is the third part of the popular Alakada franchise, the former two being Alakada and Alakada 2. The film depicts a young girl who, having come from a less-privileged family, makes a habit of lying to people about her financial status. Alakada Reloaded was a huge commercial success in cinemas upon release, and part of the list of highest-grossing Nigerian films, having garnered a domestic gro...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Alakada_Reloaded"
+    },
+    {
+      "title": "Housefull (film series)",
+      "director": "Sajid Khan (director)",
+      "release_year": 2019,
+      "release_date": "2019-10-25",
+      "description": "Housefull is an Indian comedy film series. The series stars Akshay Kumar and Ritesh Deshmukh in all the films. The first two films Housefull and Housefull 2 were directed by Sajid Khan. The third film, Housefull 3, was directed by Sajid-Farhad and fourth film Housefull 4 was directed by Farhad Samji. The series is produced by Sajid Nadiadwala under his banner Nadiadwala Grandson Entertainment. Each film starts with a fresh story unrelated with the preceding film's story. However, the theme and t...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Housefull_(film_series)"
+    },
+    {
+      "title": "President Super Star",
+      "director": "Udayakantha Warnasuriya",
+      "release_year": 2019,
+      "release_date": "2019-10-25",
+      "description": "President Super Star (Sinhala: ප්‍රසිඩන්ට් සුපර් ස්ටාර්) is a 2019 Sri Lankan Sinhala political comedy film directed and produced by Udayakantha Warnasuriya for U Creations. It stars ensemble cast of veteran and young artists including Isuru Lokuhettiarachchi in lead role along with Mahendra Perera, Sriyantha Mendis, Gihan Fernando, Priyantha Seneviratne and Srimal Wedisinghe in supportive roles. Music composed by Mahesh Denipitiya. The film received mixed reviews from critics. However, the film...",
+      "dbpedia_uri": "http://dbpedia.org/resource/President_Super_Star"
+    },
+    {
+      "title": "Ei Actor Natte",
+      "director": "Homen D' Wai",
+      "release_year": 2019,
+      "release_date": "2019-10-25",
+      "description": "Ei Actor Natte (English: I'm Not An Actor) is a 2019 romantic Manipuri film directed by Homen D' Wai and produced by Rodhika Heingang. It stars Shilheiba Ningthoujam and Biju Ningombam in the lead roles. The movie won the Best Popular Film Providing Wholesome Entertainment and Special Jury Mention Awards at the 13th Manipur State Film Awards 2020. It also won two awards at the 9th MANIFA 2020. Ei Actor Natte was released at Bhagyachandra Open Air Theatre (BOAT), Palace Compound, Imphal on 25 Oct...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Ei_Actor_Natte"
+    },
+    {
+      "title": "DC Showcase: Death",
+      "director": "Sam Liu",
+      "release_year": 2019,
+      "release_date": "2019-10-22",
+      "description": "DC Showcase: Death is an American animated short superhero film directed by Sam Liu, written by J.M. DeMatteis and produced by Warner Bros. Animation and DC Entertainment based on the eponymous character created by Neil Gaiman and Mike Dringenberg. The short was included as part of the home media release of Wonder Woman: Bloodlines. The artwork for the Portrait of Death, as well as several sketch drawings seen during the end credits, were done by comic book artist Jae Lee.",
+      "dbpedia_uri": "http://dbpedia.org/resource/DC_Showcase:_Death"
+    },
+    {
+      "title": "Raju Gari Gadhi (film series)",
+      "director": "Ohmkar",
+      "release_year": 2019,
+      "release_date": "2019-10-18",
+      "budget": "32.0",
+      "gross_revenue": "65.79",
+      "description": "Raju Gari Gadhi (transl. King's bedroom) or also known as RGG, is a series of Indian Telugu-language comedy horror films created and directed by Ohmkar. Except the first film Raju Gari Gadhi (2015), the other two films Raju Gari Gadhi 2 (2017) and Raju Gari Gadhi 3 (2019) are remakes of Pretham (2016) and Dhilluku Dhuddu 2 (2019). Ashwin Babu played the character \"Ashwin\" in all the films, is the only common actor to appear in every film of the series. Upon the release of Raju Gari Gadhi (2015),...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Raju_Gari_Gadhi_(film_series)"
+    },
+    {
+      "title": "Raju Gari Gadhi 3",
+      "director": "Ohmkar",
+      "release_year": 2019,
+      "release_date": "2019-10-18",
+      "budget": "4.0",
+      "gross_revenue": "12.14",
+      "description": "Raju Gari Gadhi 3 is a 2019 Indian Telugu-language horror comedy film directed and produced by Ohmkar under banner of Oak Entertainmments. Ashwin Babu, Avika Gor are in the lead roles and music composed by Shabir. The film is the third instalment in the Raju Garu Gadhi series that was created by Ohmkar. The cinematography was done by Chota K. Naidu and it was released on 18 October 2019. It is an official remake of Tamil movie Dhilluku Dhuddu 2.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Raju_Gari_Gadhi_3"
+    },
+    {
+      "title": "Captain Sabertooth and the Magic Diamond",
+      "director": "Rasmus A. Sivertsen",
+      "release_year": 2019,
+      "release_date": "2019-09-27",
+      "budget": "3540000.0",
+      "gross_revenue": "2777000.0",
+      "description": "Captain Sabertooth and the Magic Diamond (Norwegian: Kaptein Sabeltann og den magiske diamant) is a 2019 Norwegian 3D computer-animated swashbuckler comedy film directed by Rasmus A. Sivertsen and (in his directorial debut) from a screenplay by . Based on the Captain Sabertooth media franchise, the film's script is based on a 1996 Sabertooth play by Terje Formoe. It is produced by Sivertsen's , and was released in Norway on 27 September 2019.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Captain_Sabertooth_and_the_Magic_Diamond"
+    },
+    {
+      "title": "Perspective (2019 film)",
+      "director": "Bree Mills",
+      "release_year": 2019,
+      "release_date": "2019-09-26",
+      "budget": "100000.0",
+      "imdb_id": "10837472",
+      "description": "Perspective is an adult romance drama directed by Bree Mills. The film was edited into two versions an R-Rated film available for digital download, stream or DVD purchase, as well as an uncut pornography style film available for digital and hard copy purchase. The film was praised by those in the adult and mainstream market. The film received dozens of nominations from major award associations such as AVN, XBIZ and XRCO.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Perspective_(2019_film)"
+    },
+    {
+      "title": "7 Days to Vegas",
+      "director": "Eric Balfour",
+      "release_year": 2019,
+      "release_date": "2019-09-20",
+      "imdb_id": "6840554",
+      "description": "7 Days to Vegas (also known as Walk to Vegas) is a 2019 American comedy film directed by Eric Balfour. Vincent Van Patten is the co-writer along with . The film stars Vincent Van Patten, Ross McCall, Paul Walter Hauser, Eileen Davidson, James Van Patten, Willie Garson, Lucas Bryant, Don Stark, John O'Hurley, Chad Lowe, Jennifer Tilly, James Kyson, Danny Pardo, Christina Vidal, , Aron Eisenberg, Denise DuBarry, and . 7 Days to Vegas would be Eisenberg's last performance as he died on September 21...",
+      "dbpedia_uri": "http://dbpedia.org/resource/7_Days_to_Vegas"
+    },
+    {
+      "title": "Nishkarsha",
+      "director": "Sunil Kumar Desai",
+      "release_year": 2019,
+      "release_date": "2019-09-20",
+      "description": "Nishkarsha (English: Definite Decision) is a 1993 Indian Kannada-language heist thriller directed by Sunil Kumar Desai, starring Vishnuvardhan, Anant Nag and B. C. Patil. The story revolves around a bank robbery where terrorists become trapped with the hostages. It also explores the many travails of the police commissioner and anti-terrorist squad commandos to free the hostages and reign in the terrorists. The film was hailed as a one-of-a-kind in Kannada cinema with its realistic plot elements ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Nishkarsha"
+    },
+    {
+      "title": "Dream Girl (2019 film)",
+      "director": "Raaj Shaandilyaa",
+      "release_year": 2019,
+      "release_date": "2019-09-13",
+      "description": "Dream Girl is an Indian 2019 Hindi-language comedy film directed by Raaj Shaandilyaa in his directorial debut and produced by Ekta Kapoor. The film focuses on a cross-gender actor (played by Ayushmann Khurrana) whose female voice impersonation begets attention from others, and talks about depression and loneliness. It also stars Nushrat Bharucha, Annu Kapoor, Manjot Singh, Vijay Raaz and Abhishek Banerjee. Initially supposed to be titled Googly, it was renamed Dream Girl. The film was released o...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Dream_Girl_(2019_film)"
+    },
+    {
+      "title": "Beneath the Blue Suburban Skies",
+      "director": "Edward Burns",
+      "release_year": 2019,
+      "release_date": "2019-09-09",
+      "description": "Beneath the Blue Suburban Skies is a 2019 American film directed by Edward Burns. It premiered at the 2019 Toronto International Film Festival.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Beneath_the_Blue_Suburban_Skies"
+    },
+    {
+      "title": "Pandam Amada",
+      "director": "Oinam Gautam Singh",
+      "release_year": 2019,
+      "release_date": "2019-09-08",
+      "description": "Pandam Amada (English: In Pursuit Of) is a 2019 Manipuri film directed by O. Gautam and produced by Sarokons. It stars Bonney Takhelmayum and Archana Konsam in the lead roles. The film was premiered at MSFDS on 8 September 2019. It was world premiered at the 18th International Dhaka Film Festival held at Dhaka, Bangladesh from 11 to 19 January 2020. Pandam Amada was selected among 15 films screened in the Children's Film Section of the festival. The film also got selections in the 18th Third Eye...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Pandam_Amada"
+    },
+    {
+      "title": "Chhichhore",
+      "director": "Nitesh Tiwari",
+      "release_year": 2019,
+      "release_date": "2019-09-06",
+      "description": "Chhichhore (transl. Immature) is a 2019 Indian Hindi-language coming-of-age comedy-drama film directed by Nitesh Tiwari, written by Tiwari in association with Piyush Gupta and Nikhil Mehrotra, and produced by Sajid Nadiadwala under Nadiadwala Grandson Entertainment, with Fox Star Studios acquiring the distribution rights. Based on Tiwari's experiences as a student of the Indian Institute of Technology, Bombay, the film stars Sushant Singh Rajput, Shraddha Kapoor, Varun Sharma, Tahir Raj Bhasin, ...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Chhichhore"
+    },
+    {
+      "title": "Sivappu Manjal Pachai",
+      "director": "Sasi (director)",
+      "release_year": 2019,
+      "release_date": "2019-09-06",
+      "description": "Sivappu Manjal Pachai (transl. Red, yellow, green) is a 2019 Indian Tamil-language action thriller film written and directed by Sasi. The film stars Siddharth, G. V. Prakash Kumar, Lijomol Jose, and Kashmira Pardeshi, and marks the Tamil film debuts of both Lijomol and Pardeshi. The film is produced by Ramesh P. Pillai under the banner of Abhishek Films. Principal photography of the film commenced in July 2018. The film was released on 6 September 2019 to positive reviews and become a decent hit...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Sivappu_Manjal_Pachai"
+    },
+    {
+      "title": "Gotro",
+      "director": "Nandita Roy",
+      "release_year": 2019,
+      "release_date": "2019-08-23",
+      "description": "Gotro (transl. Clan) is a 2019 Indian Bengali-language emotional drama film, directed, produced and co-written by Nandita Roy and Shiboprosad Mukherjee. It stars Anashua Majumdar, Nigel Akkara and Manali Dey, with Ambarish Bhattacharya, Saheb Chatterjee and Badshah Moitra. The film revolves around the relationship between Mukti Debi (Majumdar), a widow who lives alone in her mansion (her son being settled abroad), with her caretaker Tareq (Akkara), an ex-convict and shows how their lives undergo...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Gotro"
+    },
+    {
+      "title": "I Came By",
+      "director": "Babak Anvari",
+      "release_year": 2019,
+      "release_date": "2019-08-22",
+      "description": "I Came By is a 2022 British crime thriller film written, co-produced and directed by British-Iranian filmmaker Babak Anvari. The film stars George MacKay, Percelle Ascott, Kelly Macdonald, and Hugh Bonneville. The film was released in the United Kingdom on 19 August 2022, before its streaming release on 31 August 2022, by Netflix.",
+      "dbpedia_uri": "http://dbpedia.org/resource/I_Came_By"
+    },
+    {
+      "title": "Shantilal O Projapoti Rohoshyo",
+      "director": "Pratim D. Gupta",
+      "release_year": 2019,
+      "release_date": "2019-08-16",
+      "description": "Shantilal O Projapoti Rohoshyo is an Indian Bengali mystery-thriller film, directed by Pratim D. Gupta. The film starred Ritwick Chakraborty, Paoli Dam and Goutam Ghose in lead roles. This was released on 16 August 2019 under the banner of Platoon One Films.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Shantilal_O_Projapoti_Rohoshyo"
+    },
+    {
+      "title": "Ambili (film)",
+      "director": "Johnpaul George",
+      "release_year": 2019,
+      "release_date": "2019-08-09",
+      "description": "Ambili is a 2019 Indian Malayalam-language comedy drama film written and directed by Johnpaul George. The film is produced by Mukesh R. Mehta, A. V. Anoop, C. V. Sarathi under the banner of E4 Entertainment and AVA productions. It stars Soubin Shahir, Naveen Nazim and Tanvi Ram. Guileless like a child and ever so full of life, Ambili is beloved to everyone in his village. The story traces Ambili's outlook towards life and of the challenges surrounding him that he faces on an everyday basis.",
+      "dbpedia_uri": "http://dbpedia.org/resource/Ambili_(film)"
+    },
+    {
+      "title": "Sijjin (film series)",
+      "director": "Alper Mestçi",
+      "release_year": 2019,
+      "release_date": "2019-08-09",
+      "description": "Sijjin is a supernatural horror film series from Turkey debuted in 2014. The original title SİCCÎN is a Kurmanji Kurdish word, literally translating 'violent' or 'vehement', according to the country of origin. Director Alper Mestçi returned to his horror works with this franchise after successfully making a pair of global box office hits. All the films are produced by and were released under the banner of his studio. Right from the start, each of the films gained global acceptance and were quick...",
+      "dbpedia_uri": "http://dbpedia.org/resource/Sijjin_(film_series)"
+    }
+  ]
+}
